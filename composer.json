@@ -1,0 +1,10 @@
+{
+    "name": "ulvestad-formuen/php-sandbox",
+    "authors": [
+        {
+            "name": "Lars Lillo Ulvestad",
+            "email": "lars.lillo@gmail.com"
+        }
+    ],
+    "require": {}
+}
